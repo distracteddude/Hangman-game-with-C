@@ -1,1 +1,1 @@
-# Hangman-game-wiith-C
+# A simple Hangman game coded in C language
